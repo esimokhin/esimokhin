@@ -1,4 +1,5 @@
-### Hi there 👋
+Приветствую Вас в моём репозитории!<br>
+Здесь вы можете познакомиться с моими работами в области анализа данных и Data Sciense
 
 <!--
 **esimokhin/esimokhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
